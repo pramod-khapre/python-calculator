@@ -22,19 +22,19 @@ elif choice == "2":
     num1 = int(input("Enter your grater number"))
     num2 = int(input("Enter Your smaler number"))
     if choice == "2":
-        print(num1 - num2)
+        print("Your Addition is" , num1 - num2)
 
 elif choice == "3":
     num1 = int(input("Enter your grater number"))
     num2 = int(input("Enter Your smaler number"))
     if choice == "3":
-        print(num1 * num2)
+        print("Your Addition is" , num1 * num2)
 
 elif choice == "4":
     num1 = int(input("Enter your grater number"))
     num2 = int(input("Enter Your smaler number"))
     if choice == "4":
-        print(num1 / num2)
+      print("Your Addition is" , num1 / num2)
 
 else:
     print("Bhai Sahi Number Daal")
